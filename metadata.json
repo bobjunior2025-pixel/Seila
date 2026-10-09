@@ -1,0 +1,6 @@
+{
+  "name": "ReinoFoot",
+  "description": "Gerenciador tático medieval estilo Brasfoot. Lidere seu clã, dispute ligas e conquiste o Grande Torneio Real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
